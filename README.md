@@ -22,5 +22,5 @@
 
 <a href = "https://www.linkedin.com/in/shweta-sonkar-184418211"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@shwetasonkar505"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://discord.gg/whoami" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whoami" height="50" width="50" /></a>    
+<a href="https://discord.gg/whoami" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whoami" height="48" width="50" /></a>    
 </p>
