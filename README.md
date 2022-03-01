@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me :
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -12,7 +12,7 @@
 - 📫 How to reach me **shwetasonkar505@gmail.com**
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools :
 
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -34,7 +34,7 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-## Connect with me:
+## Connect with me :
 <p align="left">
 
 <a href = "linkedin.com/in/shweta-sonkar-184418211"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
