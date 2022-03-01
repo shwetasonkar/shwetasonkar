@@ -30,6 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetasonkar&show_icons=true&locale=en" alt="shwetasonkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetasonkar&" alt="shwetasonkar" heihgt="50" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwetasonkar)](https://shwetasonkar/github-readme-streak-stats)
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shwetasonkar&theme=dark)](https://github.com/shwetasonkar/github-readme-streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetasonkar&" alt="shwetasonkar" heihgt="50" theme="dark"/></p>
