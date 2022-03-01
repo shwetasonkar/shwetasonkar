@@ -44,7 +44,7 @@
   <br/>
 <br/>
 
-<a href="https://github.com/shwetasonkar/github-readme-activity-graph"><img alt=" Shweta Sonkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shwetasonkar&theme=midnight-purple&bg_color=#BF40BF&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shwetasonkar/github-readme-activity-graph"><img alt=" Shweta Sonkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shwetasonkar&theme=midnight-purple&bg_color=#800080&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
