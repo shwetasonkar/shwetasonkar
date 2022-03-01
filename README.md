@@ -26,7 +26,7 @@
 <a href="https://dev.to/.shwetasonkar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=".shwetasonkar" height="40" width="35" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetasonkar&show_icons=true&locale=en&layout=compact" alt="shwetasonkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetasonkar&show_icons=true&locale=en&layout=compact" alt="shwetasonkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetasonkar&show_icons=true&locale=en" alt="shwetasonkar" /></p>
 
