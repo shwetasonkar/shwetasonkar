@@ -41,3 +41,11 @@
   <a href="https://github.com/shwetasonkar/github-readme-stats"><img alt=" Shweta Sonkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetasonkar&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
+  <br/>
+<br/>
+
+<a href="https://github.com/shwetasonkar/github-readme-activity-graph"><img alt=" Shweta Sonkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shwetasonkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+  
