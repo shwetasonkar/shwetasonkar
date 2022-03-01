@@ -37,6 +37,6 @@
 ## Connect with me :
 <p align="left">
 
-<a href = "linkedin.com/in/shweta-sonkar-184418211"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/shweta-sonkar-184418211"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@shwetasonkar505"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
