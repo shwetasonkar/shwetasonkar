@@ -26,7 +26,9 @@
 <a href="https://dev.to/.shwetasonkar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=".shwetasonkar" height="40" width="35" /></a>
 </p>
 
+## 📊 My Github Streak :
 
+</br>
 
 <p align="center">
     <a href="https://github.com/shwetasonkar/github-readme-streak-stats">
@@ -34,7 +36,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## ❖My Github Stats :
 
   <br/>
     <a href="https://github.com/shwetasonkar/github-readme-stats"><img alt="Shweta Sonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shwetasonkar&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
