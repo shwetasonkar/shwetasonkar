@@ -31,6 +31,7 @@
 </br>
 
 <p align="center">
+    <a href="https://github.com/shwetasonkar/github-readme-streak-stats"><img alt="Shweta Sonkar's Github Streak" src="https://github-readme-streak-stats.vercel.app/api?username=shwetasonkar&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/shwetasonkar/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shweta Sonkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetasonkar&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
