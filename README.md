@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #2ecc71">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shweta Sonkar ! !</h1>
-<h3 align="center">I'm a BTech student currently studying in MNNIT.</h3>
+<h3 align="center" style="color: #2ecc71">I'm a BTech student currently studying in MNNIT.</h3>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
