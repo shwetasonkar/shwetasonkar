@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## 👩🏻‍💻 About Me :
+*👩🏻‍💻 About Me :
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -34,7 +34,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+* 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/shwetasonkar/github-readme-stats"><img alt="Shweta Sonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shwetasonkar&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
