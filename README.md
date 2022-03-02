@@ -2,7 +2,7 @@
 <h1>
 
 ```diff
-- red
+ red align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shweta Sonkar ! !
 ```
 </h1>
 <h3 style="color:red;" align="center">I'm a BTech student currently studying in MNNIT.</h3> 
