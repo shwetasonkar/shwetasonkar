@@ -47,7 +47,9 @@
   <br/>
 <br/>
 
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=shwetasonkar&theme=midnight-purplea&area=true&hide_border=true#gh-dark-mode-only" width="50%"><img alt=" Shweta Sonkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shwetasonkar&theme=midnight-purple&bg_color=#800080&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shwetasonkar/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
 
 <br/>
 
