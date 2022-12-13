@@ -47,8 +47,9 @@
   <br/>
 <br/>
 
-<a href="https://github.com/shwetasonkar/github-readme-activity-graph#gh-dark-mode-only" ><alt="Shweta Sonkar's activity graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+<a href="https://github.com/shwetasonkar/github-readme-activity-graph#gh-dark-mode-only" >
+ <  img alt="Shweta Sonkar's activity graph"
+    img src="https://github-readme-activity-graph.cyclic.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 
 <br/>
