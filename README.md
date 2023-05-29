@@ -48,6 +48,7 @@
 <br/>
 
 ## 📈 My Activity Graph :
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="https://github.com/shwetasonkar/github-readme-activity-graph#gh-dark-mode-only" >
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
