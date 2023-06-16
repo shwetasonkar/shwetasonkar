@@ -38,7 +38,7 @@
 </p>
 
 ## 📊 My Github Stats :
-
+<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
   <br/>
   <a href="https://github.com/shwetasonkar/github-readme-stats"><img alt="Shweta Sonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shwetasonkar&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/shwetasonkar/github-readme-stats"><img alt="Shweta Sonkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetasonkar&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
@@ -48,6 +48,7 @@
 <br/>
 
 ## 📈 My Activity Graph :
+<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 <a href="https://github.com/shwetasonkar/github-readme-activity-graph#gh-dark-mode-only" >
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
     
