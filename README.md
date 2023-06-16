@@ -28,7 +28,7 @@
 </p>
 
 ## ❖ My Github Streak :
-
+<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 </br>
 
 <p align="center">
