@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/1140a4f2ffe1d7d5432df78421909e56c97909423568e609983ec3d4fbcb0b22/68747470733a2f2f7265" alt="Marquee Imag" width="100%">
+
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shweta Sonkar ! !</h1>
 <h3 align="center">I'm a B.Tech student currently studying in MNNIT Allahabad.</h3> 
 <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
