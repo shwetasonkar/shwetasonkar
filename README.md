@@ -29,10 +29,10 @@
 <a href="https://dev.to/.shwetasonkar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=".shwetasonkar" height="40" width="35" /></a>
 </p>
 
+
 ## ❖ My Github Streak :
 <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 </br>
-
 <p align="center">
     <a href="https://github.com/shwetasonkar/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shweta Sonkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetasonkar&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -53,11 +53,10 @@
 <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 <a href="https://github.com/shwetasonkar/github-readme-activity-graph#gh-dark-mode-only" >
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-    
- 
 </a>
-<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
+
 <h3 align="left">Support:</h3>
+<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 <p><a href="https://www.buymeacoffee.com/shwetasonkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shwetasonkar" /></a></p><br><br>
 <br/>
 
