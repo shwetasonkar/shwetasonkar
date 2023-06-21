@@ -54,7 +54,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 
-<h3 align="left">Support:</h3>
+## Support:
 <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 <p><a href="https://www.buymeacoffee.com/shwetasonkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shwetasonkar" /></a></p><br><br>
 <br/>
