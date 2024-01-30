@@ -56,6 +56,4 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake Image" width="100%">
-<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" alt="Marquee Imag" width="100%">
