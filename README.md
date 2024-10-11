@@ -1,7 +1,6 @@
 
 <h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shweta Sonkar ! !</h1>
 <h3 align="center">I'm a B.Tech student currently studying in MNNIT Allahabad.</h3> 
-<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -33,7 +32,6 @@
 
 
 ## ❖ My Github Streak :
-<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 </br>
 <p align="center">
     <a href="https://github.com/shwetasonkar/github-readme-streak-stats">
@@ -42,7 +40,7 @@
 </p>
 
 ## 📊 My Github Stats :
-<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
+
   <br/>
   <a href="https://github.com/shwetasonkar/github-readme-stats"><img alt="Shweta Sonkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shwetasonkar&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/shwetasonkar/github-readme-stats"><img alt="Shweta Sonkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetasonkar&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
@@ -51,9 +49,8 @@
 <br/>
 
 ## 📈 My Activity Graph :
-<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
 <a href="https://github.com/shwetasonkar/github-readme-activity-graph#gh-dark-mode-only" >
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetasonkar&theme=midnight-purple&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
-<img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" width="1200">
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" alt="Marquee Imag" width="100%">
